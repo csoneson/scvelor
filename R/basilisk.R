@@ -1,6 +1,6 @@
 #' @importFrom basilisk BasiliskEnvironment
 scvelo <- basilisk::BasiliskEnvironment("scvelo",
-                                        pkgname="BiocVelo",
+                                        pkgname="scvelor",
                                         packages=c("numpy==1.18.4",
                                                    "scipy==1.4.1",
                                                    "numba==0.49.1",
