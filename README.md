@@ -4,4 +4,4 @@
 
 R wrapper around the scVelo python package for RNA velocity analysis.
 
-**NOTE: This package is experimental and in an early development stage.**
+**NOTE: This package is not further developed - please use https://github.com/kevinrue/velociraptor instead.**
